@@ -3,3 +3,5 @@
 .ipynb_checkpoints/ring_test-checkpoint.ipynb
 *.ipynb
 *.ipynb
+.ipynb_checkpoints/ring_test-checkpoint.ipynb
+Ring_growth.csv
